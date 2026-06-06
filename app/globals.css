@@ -1,0 +1,150 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  @apply bg-ink text-silver-light antialiased;
+  overflow-x: hidden;
+  font-feature-settings: "ss01", "cv01";
+}
+
+::selection {
+  background: rgba(225, 29, 42, 0.85);
+  color: #fff;
+}
+
+/* Account for the sticky mobile CTA bar so content isn't hidden behind it. */
+@media (max-width: 1023px) {
+  body {
+    padding-bottom: 4.75rem;
+  }
+}
+
+@layer components {
+  .container-x {
+    @apply mx-auto w-full max-w-7xl px-5 sm:px-8 lg:px-10;
+  }
+
+  .section {
+    @apply py-20 sm:py-24 lg:py-32;
+  }
+
+  /* ---- Typography ---- */
+  .display {
+    @apply font-display font-extrabold tracking-tightest;
+  }
+  .display-xl {
+    @apply display text-[2.65rem] leading-[1.04] sm:text-6xl lg:text-[4.75rem] lg:leading-[0.98];
+  }
+  .display-lg {
+    @apply display text-3xl leading-[1.08] sm:text-4xl lg:text-5xl;
+  }
+  .display-md {
+    @apply display text-2xl leading-[1.12] sm:text-3xl lg:text-4xl;
+  }
+  .lede {
+    @apply text-lg leading-relaxed text-silver-dark sm:text-xl;
+  }
+
+  /* ---- Buttons (min 52px touch target) ---- */
+  .btn {
+    @apply inline-flex items-center justify-center gap-2.5 rounded-xl px-7 text-base font-semibold tracking-tight transition-all duration-300 focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-offset-ink;
+    min-height: 54px;
+  }
+  .btn-primary {
+    @apply btn bg-accent text-white shadow-glow-red hover:bg-accent-light hover:shadow-glow-red-lg hover:-translate-y-0.5 focus-visible:ring-accent;
+  }
+  .btn-outline {
+    @apply btn border border-white/20 bg-white/[0.04] text-white backdrop-blur-md hover:border-white/40 hover:bg-white/[0.08] focus-visible:ring-white;
+  }
+  .btn-light {
+    @apply btn bg-white text-ink hover:bg-silver-light focus-visible:ring-white;
+  }
+
+  /* ---- Glass surfaces ---- */
+  .glass {
+    @apply border border-white/10 bg-white/[0.04] backdrop-blur-xl;
+  }
+  .glass-strong {
+    @apply border border-white/12 bg-ink-800/70 backdrop-blur-2xl shadow-glass;
+  }
+  .hairline {
+    @apply border-white/10;
+  }
+
+  /* Brushed-steel surface for premium cards */
+  .steel-surface {
+    background: linear-gradient(
+      160deg,
+      rgba(255, 255, 255, 0.06) 0%,
+      rgba(255, 255, 255, 0.02) 30%,
+      rgba(10, 11, 13, 0.4) 100%
+    );
+  }
+
+  /* Top edge highlight line */
+  .edge-top {
+    @apply relative;
+  }
+  .edge-top::before {
+    content: "";
+    @apply pointer-events-none absolute inset-x-0 top-0 h-px;
+    background: linear-gradient(
+      90deg,
+      transparent,
+      rgba(255, 255, 255, 0.25),
+      transparent
+    );
+  }
+
+  /* ---- Long-form editorial body (service/city pages) ---- */
+  .prose-content p {
+    @apply mb-5 text-[1.0625rem] leading-[1.8] text-steel-dark;
+  }
+  .prose-invert p {
+    @apply mb-5 text-[1.0625rem] leading-[1.85];
+    color: #b4bcc7;
+  }
+
+  /* ---- Form inputs (dark glass) ---- */
+  .field {
+    @apply mt-2 w-full rounded-xl border border-white/12 bg-white/[0.04] px-4 py-3.5 text-base text-white placeholder-silver-muted shadow-inner outline-none transition-colors focus:border-accent/70 focus:bg-white/[0.06] focus:ring-2 focus:ring-accent/25;
+    min-height: 52px;
+  }
+  .field-label {
+    @apply block text-sm font-medium text-silver;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  .text-gradient-steel {
+    background: linear-gradient(180deg, #ffffff 0%, #9ca3af 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+}
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}

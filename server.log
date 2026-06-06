@@ -1,0 +1,10 @@
+
+> cesars-restaurant-appliances-repair@1.0.0 start
+> next start -p 3127
+
+   ▲ Next.js 15.5.19
+   - Local:        http://localhost:3127
+   - Network:      http://192.168.1.81:3127
+
+ ✓ Starting...
+ ✓ Ready in 476ms
