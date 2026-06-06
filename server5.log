@@ -1,0 +1,15 @@
+
+> cesars-restaurant-appliances-repair@1.0.0 start
+> next start -p 3131
+
+   ▲ Next.js 15.5.19
+   - Local:        http://localhost:3131
+   - Network:      http://192.168.1.81:3131
+
+ ✓ Starting...
+ ✓ Ready in 463ms
+[contact] Resend error: {
+  statusCode: 401,
+  name: 'validation_error',
+  message: 'API key is invalid'
+}
