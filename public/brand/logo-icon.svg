@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Cesar's Restaurant Appliances Repair monogram">
+  <!-- ============================================================
+       ICON-ONLY — CR monogram (transparent background)
+       ============================================================ -->
+  <rect x="1.5" y="1.5" width="61" height="61" rx="15" fill="#1a1d21"/>
+  <rect x="4.75" y="4.75" width="54.5" height="54.5" rx="11.75" fill="none" stroke="#6b7280" stroke-opacity="0.45" stroke-width="1"/>
+  <text x="32" y="34" text-anchor="middle" dominant-baseline="central"
+        font-family="'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="-1.7">
+    <tspan fill="#e7ebf0">C</tspan><tspan fill="#e11d2a">R</tspan>
+  </text>
+</svg>

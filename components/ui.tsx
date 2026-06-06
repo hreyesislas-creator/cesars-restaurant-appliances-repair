@@ -60,19 +60,23 @@ export function Wordmark({
 }) {
   const mark = (
     <span className="flex items-center gap-3">
-      <span className="relative flex h-10 w-10 items-center justify-center rounded-lg bg-gradient-to-br from-accent to-accent-dark text-lg font-extrabold text-white shadow-glow-red">
-        C
-        <span className="absolute inset-0 rounded-lg ring-1 ring-inset ring-white/20" />
+      {/* Refined CR monogram badge (matches /brand/logo-icon.svg) */}
+      <span className="relative flex h-10 w-10 items-center justify-center rounded-[11px] bg-charcoal-800 shadow-soft-lg">
+        <span className="font-display text-[17px] font-extrabold leading-none tracking-[-0.05em]">
+          <span className="text-silver-light">C</span>
+          <span className="text-accent">R</span>
+        </span>
+        <span className="absolute inset-0 rounded-[11px] ring-1 ring-inset ring-white/12" />
       </span>
       <span className="flex flex-col leading-none">
         <span
-          className={`font-display font-bold uppercase tracking-[0.12em] text-white ${
-            size === "sm" ? "text-[13px]" : "text-sm"
+          className={`font-display font-extrabold uppercase tracking-[0.1em] text-white ${
+            size === "sm" ? "text-[13px]" : "text-[15px]"
           }`}
         >
-          Cesar&apos;s
+          Cesar<span className="text-accent">&apos;</span>s
         </span>
-        <span className="mt-1 text-[10px] font-medium uppercase tracking-[0.18em] text-silver-muted">
+        <span className="mt-1 text-[10px] font-semibold uppercase tracking-[0.18em] text-silver-muted">
           Restaurant Appliances Repair
         </span>
       </span>

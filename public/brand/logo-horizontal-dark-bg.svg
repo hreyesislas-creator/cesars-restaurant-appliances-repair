@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 72" width="330" height="72" role="img" aria-label="Cesar's Restaurant Appliances Repair">
+  <!-- ============================================================
+       HORIZONTAL LOGO — DARK BACKGROUND VERSION
+       ============================================================ -->
+  <rect width="330" height="72" fill="#0a0b0d"/>
+
+  <!-- CR monogram badge -->
+  <rect x="4" y="4" width="64" height="64" rx="15" fill="#1f242b"/>
+  <rect x="7.25" y="7.25" width="57.5" height="57.5" rx="11.75" fill="none" stroke="#6b7280" stroke-opacity="0.5" stroke-width="1"/>
+  <text x="36" y="37" text-anchor="middle" dominant-baseline="central"
+        font-family="'Helvetica Neue', Arial, sans-serif" font-size="31" font-weight="800" letter-spacing="-1.8">
+    <tspan fill="#ffffff">C</tspan><tspan fill="#ff3b4a">R</tspan>
+  </text>
+
+  <!-- Wordmark -->
+  <text x="88" y="35" font-family="'Helvetica Neue', Arial, sans-serif" font-size="27" font-weight="800" letter-spacing="0.4" fill="#ffffff">CESAR<tspan fill="#ff3b4a">&#8217;</tspan>S</text>
+  <text x="89" y="53" font-family="'Helvetica Neue', Arial, sans-serif" font-size="9" font-weight="600" letter-spacing="2.7" fill="#9aa3af">RESTAURANT APPLIANCES REPAIR</text>
+</svg>
