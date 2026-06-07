@@ -75,7 +75,7 @@ export default function OgImage() {
             gap: 24,
           }}
         >
-          Free Estimates • Same-Day Repairs • (832) 545-2389
+          $50 On-Site Estimates • Same-Day Repairs • (832) 545-2389
         </div>
       </div>
     ),

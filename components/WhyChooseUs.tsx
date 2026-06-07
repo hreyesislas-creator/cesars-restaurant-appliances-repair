@@ -11,7 +11,7 @@ import { BoltIcon, PhoneIcon } from "./Icons";
 const stats: { value: Bilingual; label: Bilingual }[] = [
   { value: { en: "24/7", es: "24/7" }, label: { en: "Emergency Service", es: "Servicio de Emergencia" } },
   { value: { en: "Same-Day", es: "Mismo Día" }, label: { en: "Repairs Available", es: "Reparaciones Disponibles" } },
-  { value: { en: "Free", es: "Gratis" }, label: { en: "On-Site Estimates", es: "Estimados en Sitio" } },
+  { value: { en: "$50", es: "$50" }, label: { en: "On-Site Estimate", es: "Estimado en Sitio" } },
   { value: { en: "EN / ES", es: "EN / ES" }, label: { en: "Bilingual Team", es: "Equipo Bilingüe" } },
 ];
 

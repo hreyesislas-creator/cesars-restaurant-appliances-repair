@@ -33,8 +33,8 @@ export const SERVICES: Service[] = [
       es: "Reparación de Refrigeradores Comerciales Houston TX | Servicio 24/7",
     },
     metaDescription: {
-      en: "24/7 commercial refrigerator repair in Houston, TX. Reach-in coolers, prep tables, merchandisers & more. Free estimates, same-day service. Call (832) 545-2389.",
-      es: "Reparación de refrigeradores comerciales 24/7 en Houston, TX. Refrigeradores, mesas de preparación, exhibidores y más. Estimados gratis. Llame al (832) 545-2389.",
+      en: "24/7 commercial refrigerator repair in Houston, TX. Reach-in coolers, prep tables, merchandisers & more. $50 on-site estimate, same-day service. Call (832) 545-2389.",
+      es: "Reparación de refrigeradores comerciales 24/7 en Houston, TX. Refrigeradores, mesas de preparación, exhibidores y más. Estimado por $50. Llame al (832) 545-2389.",
     },
     h1: {
       en: "Commercial Refrigerator Repair in Houston, TX",
@@ -107,12 +107,12 @@ export const SERVICES: Service[] = [
       },
       {
         question: {
-          en: "Do you charge for estimates?",
-          es: "¿Cobran por los estimados?",
+          en: "How much is an estimate?",
+          es: "¿Cuánto cuesta un estimado?",
         },
         answer: {
-          en: "No. We provide free estimates on commercial refrigerator repairs so you know the cost before any work begins.",
-          es: "No. Ofrecemos estimados gratis en reparaciones de refrigeradores comerciales para que conozca el costo antes de comenzar cualquier trabajo.",
+          en: "Our on-site diagnostic and estimate is a flat $50. A technician inspects your commercial refrigerator and gives you a clear repair quote so you know the cost before any work begins.",
+          es: "Nuestro diagnóstico y estimado en sitio es una tarifa fija de $50. Un técnico inspecciona su refrigerador comercial y le da una cotización clara de la reparación para que conozca el costo antes de comenzar cualquier trabajo.",
         },
       },
       {
@@ -160,8 +160,8 @@ export const SERVICES: Service[] = [
       es: "Reparación de Walk-In Cooler Houston TX | Emergencia 24/7",
     },
     metaDescription: {
-      en: "24/7 walk-in cooler & freezer repair in Houston, TX. Compressor, refrigerant, and door repairs to protect your inventory. Free estimates. Call (832) 545-2389.",
-      es: "Reparación de walk-in coolers y congeladores 24/7 en Houston, TX. Compresores, refrigerante y puertas. Estimados gratis. Llame al (832) 545-2389.",
+      en: "24/7 walk-in cooler & freezer repair in Houston, TX. Compressor, refrigerant, and door repairs to protect your inventory. $50 on-site estimate. Call (832) 545-2389.",
+      es: "Reparación de walk-in coolers y congeladores 24/7 en Houston, TX. Compresores, refrigerante y puertas. Estimado por $50. Llame al (832) 545-2389.",
     },
     h1: {
       en: "Walk-In Cooler & Freezer Repair in Houston, TX",
@@ -316,7 +316,7 @@ export const SERVICES: Service[] = [
       es: "Reparación de Máquinas de Hielo Houston TX | Servicio Comercial",
     },
     metaDescription: {
-      en: "Commercial ice machine repair in Houston, TX. Low production, no ice, leaks & cleaning for Hoshizaki, Manitowoc, Scotsman & more. Free estimates. (832) 545-2389.",
+      en: "Commercial ice machine repair in Houston, TX. Low production, no ice, leaks & cleaning for Hoshizaki, Manitowoc, Scotsman & more. $50 on-site estimate. (832) 545-2389.",
       es: "Reparación de máquinas de hielo comerciales en Houston, TX. Baja producción, sin hielo, fugas y limpieza para Hoshizaki, Manitowoc, Scotsman y más. (832) 545-2389.",
     },
     h1: {
@@ -472,7 +472,7 @@ export const SERVICES: Service[] = [
       es: "Reparación de Freidoras Comerciales Houston TX | Servicio",
     },
     metaDescription: {
-      en: "Commercial deep fryer repair in Houston, TX. Won't heat, won't hold temperature, pilot & thermostat issues. Gas & electric. Free estimates. Call (832) 545-2389.",
+      en: "Commercial deep fryer repair in Houston, TX. Won't heat, won't hold temperature, pilot & thermostat issues. Gas & electric. $50 on-site estimate. Call (832) 545-2389.",
       es: "Reparación de freidoras comerciales en Houston, TX. No calientan, no mantienen temperatura, problemas de piloto y termostato. Gas y eléctricas. (832) 545-2389.",
     },
     h1: {
@@ -695,8 +695,8 @@ export const SERVICES: Service[] = [
           es: "Servicio de Emergencia Cuando Más lo Necesita",
         },
         body: {
-          en: "Equipment doesn't fail on a convenient schedule. A cooler can go down overnight, a fryer can quit during the lunch rush, and an ice machine can stop before a big weekend. That's why we offer 24/7 emergency service across the Houston area, with free estimates and same-day repairs whenever possible. We're a local, bilingual team that answers the phone and shows up — because we know what restaurant downtime really costs.",
-          es: "El equipo no falla en un horario conveniente. Un refrigerador puede descomponerse de noche, una freidora puede fallar durante la hora del almuerzo y una máquina de hielo puede detenerse antes de un fin de semana grande. Por eso ofrecemos servicio de emergencia 24/7 en el área de Houston, con estimados gratis y reparaciones el mismo día siempre que sea posible. Somos un equipo local y bilingüe que contesta el teléfono y se presenta — porque sabemos lo que realmente cuesta el tiempo de inactividad de un restaurante.",
+          en: "Equipment doesn't fail on a convenient schedule. A cooler can go down overnight, a fryer can quit during the lunch rush, and an ice machine can stop before a big weekend. That's why we offer 24/7 emergency service across the Houston area, with a $50 on-site diagnostic & estimate and same-day repairs whenever possible. We're a local, bilingual team that answers the phone and shows up — because we know what restaurant downtime really costs.",
+          es: "El equipo no falla en un horario conveniente. Un refrigerador puede descomponerse de noche, una freidora puede fallar durante la hora del almuerzo y una máquina de hielo puede detenerse antes de un fin de semana grande. Por eso ofrecemos servicio de emergencia 24/7 en el área de Houston, con un diagnóstico y estimado en sitio por $50 y reparaciones el mismo día siempre que sea posible. Somos un equipo local y bilingüe que contesta el teléfono y se presenta — porque sabemos lo que realmente cuesta el tiempo de inactividad de un restaurante.",
         },
       },
     ],
@@ -741,12 +741,12 @@ export const SERVICES: Service[] = [
       },
       {
         question: {
-          en: "Are estimates really free?",
-          es: "¿Los estimados son realmente gratis?",
+          en: "How much does an estimate cost?",
+          es: "¿Cuánto cuesta un estimado?",
         },
         answer: {
-          en: "Yes. We provide free estimates so you understand the cost before any repair begins — no surprises.",
-          es: "Sí. Ofrecemos estimados gratis para que entienda el costo antes de comenzar cualquier reparación — sin sorpresas.",
+          en: "We charge a flat $50 for an on-site diagnostic and estimate. A technician comes out, identifies the problem, and gives you a clear repair quote so you understand the cost before any repair begins — no surprises.",
+          es: "Cobramos una tarifa fija de $50 por un diagnóstico y estimado en sitio. Un técnico va a su negocio, identifica el problema y le da una cotización clara de la reparación para que entienda el costo antes de comenzar cualquier reparación — sin sorpresas.",
         },
       },
     ],

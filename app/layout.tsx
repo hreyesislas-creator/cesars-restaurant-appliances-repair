@@ -33,7 +33,7 @@ export const metadata: Metadata = {
     template: "%s | Cesar's Restaurant Appliances Repair",
   },
   description:
-    "24/7 commercial restaurant equipment repair in Houston TX. Free estimates, emergency service, same-day repairs for refrigerators, freezers, ice machines, fryers, ovens and more.",
+    "24/7 commercial restaurant equipment repair in Houston TX. $50 on-site diagnostic & estimate, emergency service, same-day repairs for refrigerators, freezers, ice machines, fryers, ovens and more.",
   applicationName: SITE.name,
   keywords: [
     "commercial restaurant equipment repair Houston",
@@ -59,13 +59,13 @@ export const metadata: Metadata = {
     title:
       "Commercial Restaurant Equipment Repair Houston TX | Cesar's Restaurant Appliances Repair",
     description:
-      "24/7 commercial restaurant equipment repair in Houston TX. Free estimates, emergency service, same-day repairs.",
+      "24/7 commercial restaurant equipment repair in Houston TX. $50 on-site diagnostic & estimate, emergency service, same-day repairs.",
   },
   twitter: {
     card: "summary_large_image",
     title: "Commercial Restaurant Equipment Repair Houston TX",
     description:
-      "24/7 commercial restaurant equipment repair in Houston TX. Free estimates, emergency & same-day service.",
+      "24/7 commercial restaurant equipment repair in Houston TX. $50 diagnostic & estimate, emergency & same-day service.",
   },
   robots: {
     index: true,

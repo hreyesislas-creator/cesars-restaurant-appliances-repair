@@ -10,11 +10,11 @@ export const UI: Record<string, Bilingual> = {
     es: "Llame Ahora: (832) 545-2389",
   },
   requestEstimate: {
-    en: "Request Free Estimate",
-    es: "Solicitar Estimado Gratis",
+    en: "Request a $50 Estimate",
+    es: "Solicitar Estimado por $50",
   },
-  freeEstimate: { en: "Free Estimate", es: "Estimado Gratis" },
-  getEstimate: { en: "Get a Free Estimate", es: "Obtenga un Estimado Gratis" },
+  freeEstimate: { en: "$50 Estimate", es: "Estimado por $50" },
+  getEstimate: { en: "Get a $50 Estimate", es: "Obtenga un Estimado por $50" },
 
   // Nav
   navHome: { en: "Home", es: "Inicio" },
@@ -48,7 +48,7 @@ export const UI: Record<string, Bilingual> = {
     en: "Frequently Asked Questions",
     es: "Preguntas Frecuentes",
   },
-  contactHeading: { en: "Request Your Free Estimate", es: "Solicite Su Estimado Gratis" },
+  contactHeading: { en: "Request Your $50 Estimate", es: "Solicite Su Estimado por $50" },
   contactSub: {
     en: "Call for emergency service or send us the details and we'll respond fast.",
     es: "Llame para servicio de emergencia o envíenos los detalles y le responderemos rápido.",
@@ -84,7 +84,7 @@ export const UI: Record<string, Bilingual> = {
   // Misc labels
   emergency247: { en: "24/7 Emergency Service", es: "Servicio de Emergencia 24/7" },
   sameDay: { en: "Same-Day Repairs", es: "Reparaciones el Mismo Día" },
-  freeEstimates: { en: "Free Estimates", es: "Estimados Gratis" },
+  freeEstimates: { en: "$50 Estimates", es: "Estimados por $50" },
   bilingual: { en: "English & Spanish", es: "Inglés y Español" },
   commercialSpecialists: {
     en: "Commercial Specialists",

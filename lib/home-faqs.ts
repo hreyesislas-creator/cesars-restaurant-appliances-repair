@@ -13,12 +13,12 @@ export const HOME_FAQS: FAQ[] = [
   },
   {
     question: {
-      en: "Do you provide free estimates?",
-      es: "¿Ofrecen estimados gratis?",
+      en: "How much is an estimate?",
+      es: "¿Cuánto cuesta un estimado?",
     },
     answer: {
-      en: "Absolutely. We provide free estimates on all commercial repairs so you understand the cost before any work begins — no surprises and no hidden fees.",
-      es: "Por supuesto. Ofrecemos estimados gratis en todas las reparaciones comerciales para que entienda el costo antes de comenzar cualquier trabajo — sin sorpresas ni cargos ocultos.",
+      en: "Our on-site diagnostic and estimate is a flat $50. A technician comes to you, inspects the equipment, and gives you a clear repair quote up front — so you understand the cost before any work begins, with no surprises or hidden fees.",
+      es: "Nuestro diagnóstico y estimado en sitio es una tarifa fija de $50. Un técnico va a su negocio, inspecciona el equipo y le da una cotización clara de la reparación por adelantado — para que entienda el costo antes de comenzar cualquier trabajo, sin sorpresas ni cargos ocultos.",
     },
   },
   {

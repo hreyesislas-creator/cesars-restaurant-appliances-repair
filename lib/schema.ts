@@ -60,7 +60,7 @@ export function localBusinessSchema() {
     },
     sameAs: [],
     description:
-      "24/7 commercial restaurant equipment repair in Houston, TX. Refrigerators, walk-in coolers, ice machines, fryers, ovens and more. Free estimates, emergency and same-day service.",
+      "24/7 commercial restaurant equipment repair in Houston, TX. Refrigerators, walk-in coolers, ice machines, fryers, ovens and more. $50 on-site diagnostic & estimate, emergency and same-day service.",
   };
 }
 

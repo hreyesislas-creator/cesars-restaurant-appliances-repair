@@ -13,7 +13,7 @@ export const CITIES: City[] = [
       es: "Reparación de Equipo de Restaurante Houston TX | Servicio 24/7",
     },
     metaDescription: {
-      en: "24/7 commercial restaurant equipment repair in Houston, TX. Refrigerators, walk-in coolers, ice machines, fryers & more. Free estimates. Call (832) 545-2389.",
+      en: "24/7 commercial restaurant equipment repair in Houston, TX. Refrigerators, walk-in coolers, ice machines, fryers & more. $50 on-site estimate. Call (832) 545-2389.",
       es: "Reparación de equipo de restaurante comercial 24/7 en Houston, TX. Refrigeradores, walk-in coolers, máquinas de hielo, freidoras y más. (832) 545-2389.",
     },
     h1: {
@@ -21,8 +21,8 @@ export const CITIES: City[] = [
       es: "Reparación de Equipo de Restaurante Comercial en Houston, TX",
     },
     intro: {
-      en: "Houston is one of the most demanding restaurant markets in the country, with thousands of restaurants, bars, food trucks, taquerías, and commercial kitchens running at full tilt every day. In a city this competitive — and this hot — reliable commercial equipment isn't optional. Cesar's Restaurant Appliances Repair provides fast, professional commercial restaurant equipment repair throughout Houston, with 24/7 emergency service, free estimates, and bilingual technicians who understand what's at stake when your kitchen goes down.\n\nFrom the Energy Corridor to the East End, Midtown to the Medical Center, we serve restaurants across the entire Houston area. Whether you operate a fine-dining kitchen downtown, a busy taquería on the Southwest side, or a high-volume bar in Montrose, we keep your refrigeration, cooking equipment, and ice machines running so you never have to turn away customers.",
-      es: "Houston es uno de los mercados de restaurantes más exigentes del país, con miles de restaurantes, bares, food trucks, taquerías y cocinas comerciales operando a toda marcha cada día. En una ciudad tan competitiva — y tan calurosa — el equipo comercial confiable no es opcional. Cesar's Restaurant Appliances Repair ofrece reparación de equipo de restaurante comercial rápida y profesional en todo Houston, con servicio de emergencia 24/7, estimados gratis y técnicos bilingües que entienden lo que está en juego cuando su cocina se descompone.\n\nDesde el Energy Corridor hasta el East End, de Midtown al Medical Center, atendemos restaurantes en toda el área de Houston. Ya sea que opere una cocina de alta cocina en el centro, una taquería concurrida en el suroeste o un bar de alto volumen en Montrose, mantenemos su refrigeración, equipo de cocción y máquinas de hielo funcionando para que nunca tenga que rechazar clientes.",
+      en: "Houston is one of the most demanding restaurant markets in the country, with thousands of restaurants, bars, food trucks, taquerías, and commercial kitchens running at full tilt every day. In a city this competitive — and this hot — reliable commercial equipment isn't optional. Cesar's Restaurant Appliances Repair provides fast, professional commercial restaurant equipment repair throughout Houston, with 24/7 emergency service, a $50 on-site estimate, and bilingual technicians who understand what's at stake when your kitchen goes down.\n\nFrom the Energy Corridor to the East End, Midtown to the Medical Center, we serve restaurants across the entire Houston area. Whether you operate a fine-dining kitchen downtown, a busy taquería on the Southwest side, or a high-volume bar in Montrose, we keep your refrigeration, cooking equipment, and ice machines running so you never have to turn away customers.",
+      es: "Houston es uno de los mercados de restaurantes más exigentes del país, con miles de restaurantes, bares, food trucks, taquerías y cocinas comerciales operando a toda marcha cada día. En una ciudad tan competitiva — y tan calurosa — el equipo comercial confiable no es opcional. Cesar's Restaurant Appliances Repair ofrece reparación de equipo de restaurante comercial rápida y profesional en todo Houston, con servicio de emergencia 24/7, estimado por $50 y técnicos bilingües que entienden lo que está en juego cuando su cocina se descompone.\n\nDesde el Energy Corridor hasta el East End, de Midtown al Medical Center, atendemos restaurantes en toda el área de Houston. Ya sea que opere una cocina de alta cocina en el centro, una taquería concurrida en el suroeste o un bar de alto volumen en Montrose, mantenemos su refrigeración, equipo de cocción y máquinas de hielo funcionando para que nunca tenga que rechazar clientes.",
     },
     sections: [
       {
@@ -41,8 +41,8 @@ export const CITIES: City[] = [
           es: "Reparación Comercial Completa en Todo Houston",
         },
         body: {
-          en: "We repair the full range of commercial kitchen equipment for Houston restaurants: commercial refrigerators and freezers, walk-in coolers, ice machines, commercial fryers, ovens, ranges, grills, and griddles. As a mobile service business, we come to you — there's no hauling equipment across town. One call connects you with a technician who can diagnose the problem, give you a free estimate, and in most cases complete the repair on the same visit.",
-          es: "Reparamos toda la gama de equipo de cocina comercial para restaurantes de Houston: refrigeradores y congeladores comerciales, walk-in coolers, máquinas de hielo, freidoras comerciales, hornos, estufas, parrillas y planchas. Como negocio de servicio móvil, vamos hacia usted — no hay que transportar equipo por toda la ciudad. Una llamada lo conecta con un técnico que puede diagnosticar el problema, darle un estimado gratis y, en la mayoría de los casos, completar la reparación en la misma visita.",
+          en: "We repair the full range of commercial kitchen equipment for Houston restaurants: commercial refrigerators and freezers, walk-in coolers, ice machines, commercial fryers, ovens, ranges, grills, and griddles. As a mobile service business, we come to you — there's no hauling equipment across town. One call connects you with a technician who can diagnose the problem, give you a $50 on-site estimate, and in most cases complete the repair on the same visit.",
+          es: "Reparamos toda la gama de equipo de cocina comercial para restaurantes de Houston: refrigeradores y congeladores comerciales, walk-in coolers, máquinas de hielo, freidoras comerciales, hornos, estufas, parrillas y planchas. Como negocio de servicio móvil, vamos hacia usted — no hay que transportar equipo por toda la ciudad. Una llamada lo conecta con un técnico que puede diagnosticar el problema, darle un estimado por $50 y, en la mayoría de los casos, completar la reparación en la misma visita.",
         },
       },
       {
@@ -103,7 +103,7 @@ export const CITIES: City[] = [
       es: "Reparación de Equipo de Restaurante Katy TX | Servicio Comercial",
     },
     metaDescription: {
-      en: "Commercial restaurant equipment repair in Katy, TX. Refrigerators, walk-in coolers, ice machines, fryers & more. 24/7 service, free estimates. (832) 545-2389.",
+      en: "Commercial restaurant equipment repair in Katy, TX. Refrigerators, walk-in coolers, ice machines, fryers & more. 24/7 service, $50 on-site estimate. (832) 545-2389.",
       es: "Reparación de equipo de restaurante comercial en Katy, TX. Refrigeradores, walk-in coolers, máquinas de hielo, freidoras y más. Servicio 24/7. (832) 545-2389.",
     },
     h1: {
@@ -111,8 +111,8 @@ export const CITIES: City[] = [
       es: "Reparación de Equipo de Restaurante Comercial en Katy, TX",
     },
     intro: {
-      en: "Katy's rapid growth has brought an explosion of restaurants, from family-owned kitchens along the Old Katy corridor to the busy chains and local favorites around Katy Mills and LaCenterra. All of them depend on commercial equipment that has to perform every shift. Cesar's Restaurant Appliances Repair brings fast, professional commercial restaurant equipment repair to Katy, TX, with 24/7 emergency service, free estimates, and bilingual technicians ready to respond.\n\nAs a mobile service business covering the greater Houston area, we serve Katy restaurants directly — no need to transport equipment or wait days for an out-of-town technician. Whether your walk-in cooler is warming up, your fryer won't heat, or your ice machine has stopped producing, we'll be there fast to get your kitchen back online.",
-      es: "El rápido crecimiento de Katy ha traído una explosión de restaurantes, desde cocinas familiares en el corredor de Old Katy hasta las cadenas concurridas y favoritos locales alrededor de Katy Mills y LaCenterra. Todos dependen de equipo comercial que debe funcionar en cada turno. Cesar's Restaurant Appliances Repair lleva reparación de equipo de restaurante comercial rápida y profesional a Katy, TX, con servicio de emergencia 24/7, estimados gratis y técnicos bilingües listos para responder.\n\nComo negocio de servicio móvil que cubre el área metropolitana de Houston, atendemos a los restaurantes de Katy directamente — sin necesidad de transportar equipo ni esperar días por un técnico de fuera de la ciudad. Ya sea que su walk-in cooler se esté calentando, su freidora no caliente o su máquina de hielo haya dejado de producir, estaremos ahí rápido para devolver su cocina al funcionamiento.",
+      en: "Katy's rapid growth has brought an explosion of restaurants, from family-owned kitchens along the Old Katy corridor to the busy chains and local favorites around Katy Mills and LaCenterra. All of them depend on commercial equipment that has to perform every shift. Cesar's Restaurant Appliances Repair brings fast, professional commercial restaurant equipment repair to Katy, TX, with 24/7 emergency service, a $50 on-site estimate, and bilingual technicians ready to respond.\n\nAs a mobile service business covering the greater Houston area, we serve Katy restaurants directly — no need to transport equipment or wait days for an out-of-town technician. Whether your walk-in cooler is warming up, your fryer won't heat, or your ice machine has stopped producing, we'll be there fast to get your kitchen back online.",
+      es: "El rápido crecimiento de Katy ha traído una explosión de restaurantes, desde cocinas familiares en el corredor de Old Katy hasta las cadenas concurridas y favoritos locales alrededor de Katy Mills y LaCenterra. Todos dependen de equipo comercial que debe funcionar en cada turno. Cesar's Restaurant Appliances Repair lleva reparación de equipo de restaurante comercial rápida y profesional a Katy, TX, con servicio de emergencia 24/7, estimado por $50 y técnicos bilingües listos para responder.\n\nComo negocio de servicio móvil que cubre el área metropolitana de Houston, atendemos a los restaurantes de Katy directamente — sin necesidad de transportar equipo ni esperar días por un técnico de fuera de la ciudad. Ya sea que su walk-in cooler se esté calentando, su freidora no caliente o su máquina de hielo haya dejado de producir, estaremos ahí rápido para devolver su cocina al funcionamiento.",
     },
     sections: [
       {
@@ -131,8 +131,8 @@ export const CITIES: City[] = [
           es: "Cada Pieza Principal de Equipo Comercial",
         },
         body: {
-          en: "Our Katy customers rely on us for the full range of commercial kitchen repair: reach-in and walk-in refrigeration, commercial freezers, ice machines, fryers, ovens, ranges, grills, and griddles. We service all major brands and carry common parts so we can complete most repairs on the first visit. With free estimates and honest recommendations, you'll always know your options before any work begins.",
-          es: "Nuestros clientes de Katy confían en nosotros para toda la gama de reparación de cocina comercial: refrigeración vertical y walk-in, congeladores comerciales, máquinas de hielo, freidoras, hornos, estufas, parrillas y planchas. Atendemos todas las marcas principales y llevamos repuestos comunes para completar la mayoría de las reparaciones en la primera visita. Con estimados gratis y recomendaciones honestas, siempre conocerá sus opciones antes de comenzar cualquier trabajo.",
+          en: "Our Katy customers rely on us for the full range of commercial kitchen repair: reach-in and walk-in refrigeration, commercial freezers, ice machines, fryers, ovens, ranges, grills, and griddles. We service all major brands and carry common parts so we can complete most repairs on the first visit. With a flat $50 on-site estimate and honest recommendations, you'll always know your options before any work begins.",
+          es: "Nuestros clientes de Katy confían en nosotros para toda la gama de reparación de cocina comercial: refrigeración vertical y walk-in, congeladores comerciales, máquinas de hielo, freidoras, hornos, estufas, parrillas y planchas. Atendemos todas las marcas principales y llevamos repuestos comunes para completar la mayoría de las reparaciones en la primera visita. Con un estimado en sitio por $50 y recomendaciones honestas, siempre conocerá sus opciones antes de comenzar cualquier trabajo.",
         },
       },
       {
@@ -162,8 +162,8 @@ export const CITIES: City[] = [
           es: "¿Cobran extra por ir a Katy?",
         },
         answer: {
-          en: "Katy is part of our regular service area in the greater Houston region. Call (832) 545-2389 for a free estimate and we'll go over everything up front.",
-          es: "Katy es parte de nuestra área de servicio regular en la región metropolitana de Houston. Llame al (832) 545-2389 para un estimado gratis y le explicaremos todo por adelantado.",
+          en: "Katy is part of our regular service area in the greater Houston region. Call (832) 545-2389 for a $50 on-site estimate and we'll go over everything up front.",
+          es: "Katy es parte de nuestra área de servicio regular en la región metropolitana de Houston. Llame al (832) 545-2389 para un estimado por $50 y le explicaremos todo por adelantado.",
         },
       },
       {
@@ -191,7 +191,7 @@ export const CITIES: City[] = [
       es: "Reparación de Equipo de Restaurante Sugar Land TX | Comercial",
     },
     metaDescription: {
-      en: "Commercial restaurant equipment repair in Sugar Land, TX. Walk-in coolers, refrigerators, ice machines, fryers & more. 24/7 service, free estimates. (832) 545-2389.",
+      en: "Commercial restaurant equipment repair in Sugar Land, TX. Walk-in coolers, refrigerators, ice machines, fryers & more. 24/7 service, $50 on-site estimate. (832) 545-2389.",
       es: "Reparación de equipo de restaurante comercial en Sugar Land, TX. Walk-in coolers, refrigeradores, máquinas de hielo, freidoras y más. 24/7. (832) 545-2389.",
     },
     h1: {
@@ -199,8 +199,8 @@ export const CITIES: City[] = [
       es: "Reparación de Equipo de Restaurante Comercial en Sugar Land, TX",
     },
     intro: {
-      en: "Sugar Land's thriving dining scene — from Town Square to First Colony and the restaurants lining Highway 6 — depends on commercial kitchens that run flawlessly. When equipment fails, Sugar Land operators need a repair partner who shows up fast and fixes it right. Cesar's Restaurant Appliances Repair delivers professional commercial restaurant equipment repair throughout Sugar Land, TX, with 24/7 emergency service, free estimates, and bilingual technicians.\n\nAs a mobile commercial repair service covering the greater Houston area, we bring the shop to your kitchen. From refrigeration emergencies to fryers and ice machines, we diagnose the problem, provide an upfront free estimate, and get your equipment back to peak performance — usually the same day.",
-      es: "La próspera escena gastronómica de Sugar Land — desde Town Square hasta First Colony y los restaurantes a lo largo de la Highway 6 — depende de cocinas comerciales que funcionan sin fallas. Cuando el equipo falla, los operadores de Sugar Land necesitan un socio de reparación que llegue rápido y lo arregle bien. Cesar's Restaurant Appliances Repair ofrece reparación profesional de equipo de restaurante comercial en todo Sugar Land, TX, con servicio de emergencia 24/7, estimados gratis y técnicos bilingües.\n\nComo servicio de reparación comercial móvil que cubre el área metropolitana de Houston, llevamos el taller a su cocina. Desde emergencias de refrigeración hasta freidoras y máquinas de hielo, diagnosticamos el problema, ofrecemos un estimado gratis por adelantado y devolvemos su equipo a su máximo rendimiento — generalmente el mismo día.",
+      en: "Sugar Land's thriving dining scene — from Town Square to First Colony and the restaurants lining Highway 6 — depends on commercial kitchens that run flawlessly. When equipment fails, Sugar Land operators need a repair partner who shows up fast and fixes it right. Cesar's Restaurant Appliances Repair delivers professional commercial restaurant equipment repair throughout Sugar Land, TX, with 24/7 emergency service, a $50 on-site estimate, and bilingual technicians.\n\nAs a mobile commercial repair service covering the greater Houston area, we bring the shop to your kitchen. From refrigeration emergencies to fryers and ice machines, we diagnose the problem, provide an upfront $50 on-site estimate, and get your equipment back to peak performance — usually the same day.",
+      es: "La próspera escena gastronómica de Sugar Land — desde Town Square hasta First Colony y los restaurantes a lo largo de la Highway 6 — depende de cocinas comerciales que funcionan sin fallas. Cuando el equipo falla, los operadores de Sugar Land necesitan un socio de reparación que llegue rápido y lo arregle bien. Cesar's Restaurant Appliances Repair ofrece reparación profesional de equipo de restaurante comercial en todo Sugar Land, TX, con servicio de emergencia 24/7, estimado por $50 y técnicos bilingües.\n\nComo servicio de reparación comercial móvil que cubre el área metropolitana de Houston, llevamos el taller a su cocina. Desde emergencias de refrigeración hasta freidoras y máquinas de hielo, diagnosticamos el problema, ofrecemos un estimado en sitio por $50 por adelantado y devolvemos su equipo a su máximo rendimiento — generalmente el mismo día.",
     },
     sections: [
       {
@@ -219,8 +219,8 @@ export const CITIES: City[] = [
           es: "Refrigeración, Cocción y Equipo de Hielo",
         },
         body: {
-          en: "We repair commercial refrigerators and freezers, walk-in coolers, ice machines, fryers, ovens, ranges, and grills for Sugar Land restaurants. Whether it's a walk-in losing temperature and threatening your inventory or a fryer that won't keep up during dinner service, we have the experience and the parts to fix it fast. All work comes with a free estimate so there are no surprises.",
-          es: "Reparamos refrigeradores y congeladores comerciales, walk-in coolers, máquinas de hielo, freidoras, hornos, estufas y parrillas para restaurantes de Sugar Land. Ya sea un walk-in que pierde temperatura y amenaza su inventario o una freidora que no rinde durante la cena, tenemos la experiencia y los repuestos para arreglarlo rápido. Todo el trabajo incluye un estimado gratis para que no haya sorpresas.",
+          en: "We repair commercial refrigerators and freezers, walk-in coolers, ice machines, fryers, ovens, ranges, and grills for Sugar Land restaurants. Whether it's a walk-in losing temperature and threatening your inventory or a fryer that won't keep up during dinner service, we have the experience and the parts to fix it fast. All work starts with a $50 on-site estimate so there are no surprises.",
+          es: "Reparamos refrigeradores y congeladores comerciales, walk-in coolers, máquinas de hielo, freidoras, hornos, estufas y parrillas para restaurantes de Sugar Land. Ya sea un walk-in que pierde temperatura y amenaza su inventario o una freidora que no rinde durante la cena, tenemos la experiencia y los repuestos para arreglarlo rápido. Todo el trabajo comienza con un estimado en sitio por $50 para que no haya sorpresas.",
         },
       },
       {
@@ -256,12 +256,12 @@ export const CITIES: City[] = [
       },
       {
         question: {
-          en: "Do you provide free estimates in Sugar Land?",
-          es: "¿Ofrecen estimados gratis en Sugar Land?",
+          en: "How much is an estimate in Sugar Land?",
+          es: "¿Cuánto cuesta un estimado en Sugar Land?",
         },
         answer: {
-          en: "Always. We provide free estimates on every commercial repair so you know the cost before we begin any work.",
-          es: "Siempre. Ofrecemos estimados gratis en cada reparación comercial para que conozca el costo antes de comenzar cualquier trabajo.",
+          en: "Our on-site diagnostic and estimate is a flat $50 on every commercial repair, so you know the cost before we begin any work.",
+          es: "Nuestro diagnóstico y estimado en sitio es una tarifa fija de $50 en cada reparación comercial, para que conozca el costo antes de comenzar cualquier trabajo.",
         },
       },
     ],
@@ -279,7 +279,7 @@ export const CITIES: City[] = [
       es: "Reparación de Equipo de Restaurante Pearland TX | Comercial",
     },
     metaDescription: {
-      en: "Commercial restaurant equipment repair in Pearland, TX. Walk-in coolers, refrigerators, ice machines, fryers & more. 24/7 service, free estimates. (832) 545-2389.",
+      en: "Commercial restaurant equipment repair in Pearland, TX. Walk-in coolers, refrigerators, ice machines, fryers & more. 24/7 service, $50 on-site estimate. (832) 545-2389.",
       es: "Reparación de equipo de restaurante comercial en Pearland, TX. Walk-in coolers, refrigeradores, máquinas de hielo, freidoras y más. 24/7. (832) 545-2389.",
     },
     h1: {
@@ -287,8 +287,8 @@ export const CITIES: City[] = [
       es: "Reparación de Equipo de Restaurante Comercial en Pearland, TX",
     },
     intro: {
-      en: "Pearland has grown into one of the Houston area's most vibrant suburban dining destinations, with restaurants clustered along Broadway, around Pearland Town Center, and throughout Shadow Creek Ranch. These kitchens run hard to serve a fast-growing community, and they need commercial equipment that keeps up. Cesar's Restaurant Appliances Repair provides professional commercial restaurant equipment repair across Pearland, TX, with 24/7 emergency service, free estimates, and bilingual technicians.\n\nWe're a mobile commercial repair service, so we come directly to your Pearland kitchen. From refrigeration to fryers, ovens, and ice machines, we diagnose quickly, quote honestly, and repair reliably — getting you back to serving customers with as little downtime as possible.",
-      es: "Pearland se ha convertido en uno de los destinos gastronómicos suburbanos más vibrantes del área de Houston, con restaurantes agrupados a lo largo de Broadway, alrededor de Pearland Town Center y por todo Shadow Creek Ranch. Estas cocinas trabajan duro para atender a una comunidad de rápido crecimiento, y necesitan equipo comercial que mantenga el ritmo. Cesar's Restaurant Appliances Repair ofrece reparación profesional de equipo de restaurante comercial en todo Pearland, TX, con servicio de emergencia 24/7, estimados gratis y técnicos bilingües.\n\nSomos un servicio de reparación comercial móvil, así que vamos directamente a su cocina en Pearland. Desde refrigeración hasta freidoras, hornos y máquinas de hielo, diagnosticamos rápido, cotizamos con honestidad y reparamos de forma confiable — devolviéndolo a atender clientes con el menor tiempo de inactividad posible.",
+      en: "Pearland has grown into one of the Houston area's most vibrant suburban dining destinations, with restaurants clustered along Broadway, around Pearland Town Center, and throughout Shadow Creek Ranch. These kitchens run hard to serve a fast-growing community, and they need commercial equipment that keeps up. Cesar's Restaurant Appliances Repair provides professional commercial restaurant equipment repair across Pearland, TX, with 24/7 emergency service, a $50 on-site estimate, and bilingual technicians.\n\nWe're a mobile commercial repair service, so we come directly to your Pearland kitchen. From refrigeration to fryers, ovens, and ice machines, we diagnose quickly, quote honestly, and repair reliably — getting you back to serving customers with as little downtime as possible.",
+      es: "Pearland se ha convertido en uno de los destinos gastronómicos suburbanos más vibrantes del área de Houston, con restaurantes agrupados a lo largo de Broadway, alrededor de Pearland Town Center y por todo Shadow Creek Ranch. Estas cocinas trabajan duro para atender a una comunidad de rápido crecimiento, y necesitan equipo comercial que mantenga el ritmo. Cesar's Restaurant Appliances Repair ofrece reparación profesional de equipo de restaurante comercial en todo Pearland, TX, con servicio de emergencia 24/7, estimado por $50 y técnicos bilingües.\n\nSomos un servicio de reparación comercial móvil, así que vamos directamente a su cocina en Pearland. Desde refrigeración hasta freidoras, hornos y máquinas de hielo, diagnosticamos rápido, cotizamos con honestidad y reparamos de forma confiable — devolviéndolo a atender clientes con el menor tiempo de inactividad posible.",
     },
     sections: [
       {
@@ -307,8 +307,8 @@ export const CITIES: City[] = [
           es: "Cobertura Completa de Cocina Comercial",
         },
         body: {
-          en: "Pearland restaurants count on us for commercial refrigerator and freezer repair, walk-in cooler service, ice machine repair, and commercial cooking equipment including fryers, ovens, ranges, and grills. We service all major brands, carry common parts, and back every job with a free, upfront estimate. Our goal is a lasting repair that keeps your kitchen running long after we leave.",
-          es: "Los restaurantes de Pearland cuentan con nosotros para la reparación de refrigeradores y congeladores comerciales, servicio de walk-in coolers, reparación de máquinas de hielo y equipo de cocción comercial incluyendo freidoras, hornos, estufas y parrillas. Atendemos todas las marcas principales, llevamos repuestos comunes y respaldamos cada trabajo con un estimado gratis y por adelantado. Nuestro objetivo es una reparación duradera que mantenga su cocina funcionando mucho después de irnos.",
+          en: "Pearland restaurants count on us for commercial refrigerator and freezer repair, walk-in cooler service, ice machine repair, and commercial cooking equipment including fryers, ovens, ranges, and grills. We service all major brands, carry common parts, and back every job with a $50, upfront on-site estimate. Our goal is a lasting repair that keeps your kitchen running long after we leave.",
+          es: "Los restaurantes de Pearland cuentan con nosotros para la reparación de refrigeradores y congeladores comerciales, servicio de walk-in coolers, reparación de máquinas de hielo y equipo de cocción comercial incluyendo freidoras, hornos, estufas y parrillas. Atendemos todas las marcas principales, llevamos repuestos comunes y respaldamos cada trabajo con un estimado en sitio por $50 y por adelantado. Nuestro objetivo es una reparación duradera que mantenga su cocina funcionando mucho después de irnos.",
         },
       },
       {
@@ -366,7 +366,7 @@ export const CITIES: City[] = [
       es: "Reparación de Equipo de Restaurante Pasadena TX | Comercial",
     },
     metaDescription: {
-      en: "Commercial restaurant equipment repair in Pasadena, TX. Walk-in coolers, refrigerators, ice machines, fryers & more. 24/7 service, free estimates. (832) 545-2389.",
+      en: "Commercial restaurant equipment repair in Pasadena, TX. Walk-in coolers, refrigerators, ice machines, fryers & more. 24/7 service, $50 on-site estimate. (832) 545-2389.",
       es: "Reparación de equipo de restaurante comercial en Pasadena, TX. Walk-in coolers, refrigeradores, máquinas de hielo, freidoras y más. 24/7. (832) 545-2389.",
     },
     h1: {
@@ -374,8 +374,8 @@ export const CITIES: City[] = [
       es: "Reparación de Equipo de Restaurante Comercial en Pasadena, TX",
     },
     intro: {
-      en: "Pasadena is a hardworking city with a rich food culture — from longtime family taquerías and Tex-Mex favorites to busy diners and restaurants serving the industrial workforce along the ship channel. These kitchens run long hours and need equipment that won't quit. Cesar's Restaurant Appliances Repair provides reliable commercial restaurant equipment repair throughout Pasadena, TX, with 24/7 emergency service, free estimates, and fully bilingual technicians.\n\nWe're proud to serve Pasadena's restaurant community directly as a mobile commercial repair service. Whether your refrigeration is failing, your fryer won't heat, or your ice machine has stopped, we respond fast, give you an honest free estimate, and make a repair that lasts.",
-      es: "Pasadena es una ciudad trabajadora con una rica cultura gastronómica — desde taquerías familiares de toda la vida y favoritos Tex-Mex hasta restaurantes y fondas que atienden a la fuerza laboral industrial a lo largo del canal de navegación. Estas cocinas trabajan largas horas y necesitan equipo que no falle. Cesar's Restaurant Appliances Repair ofrece reparación confiable de equipo de restaurante comercial en todo Pasadena, TX, con servicio de emergencia 24/7, estimados gratis y técnicos completamente bilingües.\n\nNos enorgullece atender a la comunidad de restaurantes de Pasadena directamente como servicio de reparación comercial móvil. Ya sea que su refrigeración esté fallando, su freidora no caliente o su máquina de hielo se haya detenido, respondemos rápido, le damos un estimado gratis y honesto, y hacemos una reparación que dura.",
+      en: "Pasadena is a hardworking city with a rich food culture — from longtime family taquerías and Tex-Mex favorites to busy diners and restaurants serving the industrial workforce along the ship channel. These kitchens run long hours and need equipment that won't quit. Cesar's Restaurant Appliances Repair provides reliable commercial restaurant equipment repair throughout Pasadena, TX, with 24/7 emergency service, a $50 on-site estimate, and fully bilingual technicians.\n\nWe're proud to serve Pasadena's restaurant community directly as a mobile commercial repair service. Whether your refrigeration is failing, your fryer won't heat, or your ice machine has stopped, we respond fast, give you a clear $50 on-site estimate, and make a repair that lasts.",
+      es: "Pasadena es una ciudad trabajadora con una rica cultura gastronómica — desde taquerías familiares de toda la vida y favoritos Tex-Mex hasta restaurantes y fondas que atienden a la fuerza laboral industrial a lo largo del canal de navegación. Estas cocinas trabajan largas horas y necesitan equipo que no falle. Cesar's Restaurant Appliances Repair ofrece reparación confiable de equipo de restaurante comercial en todo Pasadena, TX, con servicio de emergencia 24/7, estimado por $50 y técnicos completamente bilingües.\n\nNos enorgullece atender a la comunidad de restaurantes de Pasadena directamente como servicio de reparación comercial móvil. Ya sea que su refrigeración esté fallando, su freidora no caliente o su máquina de hielo se haya detenido, respondemos rápido, le damos un estimado en sitio por $50 claro, y hacemos una reparación que dura.",
     },
     sections: [
       {
@@ -394,8 +394,8 @@ export const CITIES: City[] = [
           es: "Reparaciones para Todo Tipo de Equipo",
         },
         body: {
-          en: "We handle commercial refrigerators and freezers, walk-in coolers, ice machines, fryers, ovens, ranges, grills, and griddles for Pasadena restaurants. From a taquería's flat-top griddle to a diner's walk-in cooler, our technicians have the experience to diagnose and repair it. We service all major brands and provide a free estimate before any work starts.",
-          es: "Atendemos refrigeradores y congeladores comerciales, walk-in coolers, máquinas de hielo, freidoras, hornos, estufas, parrillas y planchas para restaurantes de Pasadena. Desde la plancha de una taquería hasta el walk-in cooler de una fonda, nuestros técnicos tienen la experiencia para diagnosticarlo y repararlo. Atendemos todas las marcas principales y ofrecemos un estimado gratis antes de comenzar cualquier trabajo.",
+          en: "We handle commercial refrigerators and freezers, walk-in coolers, ice machines, fryers, ovens, ranges, grills, and griddles for Pasadena restaurants. From a taquería's flat-top griddle to a diner's walk-in cooler, our technicians have the experience to diagnose and repair it. We service all major brands and provide a $50 on-site estimate before any work starts.",
+          es: "Atendemos refrigeradores y congeladores comerciales, walk-in coolers, máquinas de hielo, freidoras, hornos, estufas, parrillas y planchas para restaurantes de Pasadena. Desde la plancha de una taquería hasta el walk-in cooler de una fonda, nuestros técnicos tienen la experiencia para diagnosticarlo y repararlo. Atendemos todas las marcas principales y ofrecemos un estimado en sitio por $50 antes de comenzar cualquier trabajo.",
         },
       },
       {
@@ -434,8 +434,8 @@ export const CITIES: City[] = [
           es: "¿Ofrecen servicio de emergencia en Pasadena?",
         },
         answer: {
-          en: "Yes. We provide 24/7 emergency commercial equipment repair throughout Pasadena with fast response and free estimates.",
-          es: "Sí. Ofrecemos reparación de equipo comercial de emergencia 24/7 en todo Pasadena con respuesta rápida y estimados gratis.",
+          en: "Yes. We provide 24/7 emergency commercial equipment repair throughout Pasadena with fast response and a $50 on-site estimate.",
+          es: "Sí. Ofrecemos reparación de equipo comercial de emergencia 24/7 en todo Pasadena con respuesta rápida y un estimado por $50.",
         },
       },
     ],
@@ -453,7 +453,7 @@ export const CITIES: City[] = [
       es: "Reparación de Equipo de Restaurante Cypress TX | Comercial",
     },
     metaDescription: {
-      en: "Commercial restaurant equipment repair in Cypress, TX. Walk-in coolers, refrigerators, ice machines, fryers & more. 24/7 service, free estimates. (832) 545-2389.",
+      en: "Commercial restaurant equipment repair in Cypress, TX. Walk-in coolers, refrigerators, ice machines, fryers & more. 24/7 service, $50 on-site estimate. (832) 545-2389.",
       es: "Reparación de equipo de restaurante comercial en Cypress, TX. Walk-in coolers, refrigeradores, máquinas de hielo, freidoras y más. 24/7. (832) 545-2389.",
     },
     h1: {
@@ -461,8 +461,8 @@ export const CITIES: City[] = [
       es: "Reparación de Equipo de Restaurante Comercial en Cypress, TX",
     },
     intro: {
-      en: "Cypress has rapidly become one of northwest Houston's premier suburban communities, and its restaurant scene has flourished along with it — from family kitchens and fast-casual spots around the Towne Lake and Bridgeland areas to established favorites along Highway 290. All of them rely on commercial equipment that performs every shift. Cesar's Restaurant Appliances Repair provides professional commercial restaurant equipment repair throughout Cypress, TX, with 24/7 emergency service, free estimates, and bilingual technicians.\n\nAs a mobile service business covering the greater Houston area, we bring fast, expert repair directly to Cypress kitchens. Whether it's a walk-in cooler, ice machine, fryer, or oven, we diagnose the issue, provide an upfront free estimate, and make a reliable repair so you can keep serving your customers.",
-      es: "Cypress se ha convertido rápidamente en una de las principales comunidades suburbanas del noroeste de Houston, y su escena de restaurantes ha florecido junto con ella — desde cocinas familiares y lugares de comida rápida casual en las áreas de Towne Lake y Bridgeland hasta favoritos establecidos a lo largo de la Highway 290. Todos dependen de equipo comercial que funcione en cada turno. Cesar's Restaurant Appliances Repair ofrece reparación profesional de equipo de restaurante comercial en todo Cypress, TX, con servicio de emergencia 24/7, estimados gratis y técnicos bilingües.\n\nComo negocio de servicio móvil que cubre el área metropolitana de Houston, llevamos reparación rápida y experta directamente a las cocinas de Cypress. Ya sea un walk-in cooler, máquina de hielo, freidora u horno, diagnosticamos el problema, ofrecemos un estimado gratis por adelantado y hacemos una reparación confiable para que pueda seguir atendiendo a sus clientes.",
+      en: "Cypress has rapidly become one of northwest Houston's premier suburban communities, and its restaurant scene has flourished along with it — from family kitchens and fast-casual spots around the Towne Lake and Bridgeland areas to established favorites along Highway 290. All of them rely on commercial equipment that performs every shift. Cesar's Restaurant Appliances Repair provides professional commercial restaurant equipment repair throughout Cypress, TX, with 24/7 emergency service, a $50 on-site estimate, and bilingual technicians.\n\nAs a mobile service business covering the greater Houston area, we bring fast, expert repair directly to Cypress kitchens. Whether it's a walk-in cooler, ice machine, fryer, or oven, we diagnose the issue, provide an upfront $50 on-site estimate, and make a reliable repair so you can keep serving your customers.",
+      es: "Cypress se ha convertido rápidamente en una de las principales comunidades suburbanas del noroeste de Houston, y su escena de restaurantes ha florecido junto con ella — desde cocinas familiares y lugares de comida rápida casual en las áreas de Towne Lake y Bridgeland hasta favoritos establecidos a lo largo de la Highway 290. Todos dependen de equipo comercial que funcione en cada turno. Cesar's Restaurant Appliances Repair ofrece reparación profesional de equipo de restaurante comercial en todo Cypress, TX, con servicio de emergencia 24/7, estimado por $50 y técnicos bilingües.\n\nComo negocio de servicio móvil que cubre el área metropolitana de Houston, llevamos reparación rápida y experta directamente a las cocinas de Cypress. Ya sea un walk-in cooler, máquina de hielo, freidora u horno, diagnosticamos el problema, ofrecemos un estimado en sitio por $50 por adelantado y hacemos una reparación confiable para que pueda seguir atendiendo a sus clientes.",
     },
     sections: [
       {
@@ -481,8 +481,8 @@ export const CITIES: City[] = [
           es: "De la Refrigeración al Equipo de Cocción",
         },
         body: {
-          en: "We repair the full range of commercial kitchen equipment for Cypress restaurants: reach-in and walk-in refrigeration, commercial freezers, ice machines, fryers, ovens, ranges, grills, and griddles. We service all major brands, carry common replacement parts, and complete most repairs on the first visit. Every job starts with a free estimate so you always know your options.",
-          es: "Reparamos toda la gama de equipo de cocina comercial para restaurantes de Cypress: refrigeración vertical y walk-in, congeladores comerciales, máquinas de hielo, freidoras, hornos, estufas, parrillas y planchas. Atendemos todas las marcas principales, llevamos repuestos comunes y completamos la mayoría de las reparaciones en la primera visita. Cada trabajo comienza con un estimado gratis para que siempre conozca sus opciones.",
+          en: "We repair the full range of commercial kitchen equipment for Cypress restaurants: reach-in and walk-in refrigeration, commercial freezers, ice machines, fryers, ovens, ranges, grills, and griddles. We service all major brands, carry common replacement parts, and complete most repairs on the first visit. Every job starts with a $50 on-site estimate so you always know your options.",
+          es: "Reparamos toda la gama de equipo de cocina comercial para restaurantes de Cypress: refrigeración vertical y walk-in, congeladores comerciales, máquinas de hielo, freidoras, hornos, estufas, parrillas y planchas. Atendemos todas las marcas principales, llevamos repuestos comunes y completamos la mayoría de las reparaciones en la primera visita. Cada trabajo comienza con un estimado en sitio por $50 para que siempre conozca sus opciones.",
         },
       },
       {

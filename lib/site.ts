@@ -9,7 +9,7 @@ export const SITE = {
   email: "cesaredgarmejia0603@gmail.com",
   emailHref: "mailto:cesaredgarmejia0603@gmail.com",
   address: {
-    street: "7502 Wall St.",
+    street: "2502 Wall St.",
     city: "Houston",
     state: "TX",
     region: "Texas",
